@@ -1,0 +1,7 @@
+Static Void Main (sring[]args)
+	{
+	int x = 30;
+	Console.WriteLine(x);
+	}
+
+	//outputs 30
