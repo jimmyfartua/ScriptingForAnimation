@@ -2,20 +2,40 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\a\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\a\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Scripting AI.607082799.00" t="ExcludeRecursive" />
-    <e p="E:\Scripting AI" t="IncludeRecursive">
+    <e p="C:\Users\a\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Scripting AI.-1216690416.00" t="ExcludeRecursive" />
+    <e p="E:\ScriptingForAnthony\ScriptingForAnimation\Scripting AI" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Advanced Waypoint System" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AWSEditor.cs" t="Include" />
+            <e p="AWSManagerInspector.cs" t="Include" />
+            <e p="WaypointCreatorInspector.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="AWSEntityIdentifier.cs" t="Include" />
+            <e p="AWSManager.cs" t="Include" />
+            <e p="AWSPatrol.cs" t="Include" />
+            <e p="Waypoint.cs" t="Include" />
+            <e p="WaypointIdentifier.cs" t="Include" />
+            <e p="WaypointRoute.cs" t="Include" />
+            <e p="WaypointRouteIdentifier.cs" t="Include" />
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="AIAgent.cs" t="Include" />
+          <e p="CarWayPoint.cs" t="Include" />
           <e p="CharMove.cs" t="Include" />
           <e p="FloatBool.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FloatInput.cs" t="Include" />
+          <e p="GameM.cs" t="Include" />
           <e p="MoveNotGrounded.cs" t="Include" />
           <e p="MovePattern.cs" t="Include" />
+          <e p="SetCountDown.cs" t="Include" />
           <e p="SwordSwing.cs" t="Include" />
         </e>
         <e p="Standard Assets" t="Include">
@@ -68,6 +88,11 @@
               <e p="CrossPlatformInputInitialize.cs" t="Include" />
             </e>
           </e>
+          <e p="Fonts" t="Include">
+            <e p="OpenSans" t="Include">
+              <e p="License!.txt" t="Include" />
+            </e>
+          </e>
           <e p="Utility" t="Include">
             <e p="ActivateTrigger.cs" t="Include" />
             <e p="AlphaButtonClickMask.cs" t="Include" />
@@ -93,6 +118,42 @@
             <e p="TimedObjectDestructor.cs" t="Include" />
             <e p="WaypointCircuit.cs" t="Include" />
             <e p="WaypointProgressTracker.cs" t="Include" />
+          </e>
+          <e p="Vehicles" t="Include">
+            <e p="Aircraft" t="Include">
+              <e p="AircraftGuidelines.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="AeroplaneAiControl.cs" t="Include" />
+                <e p="AeroplaneAudio.cs" t="Include" />
+                <e p="AeroplaneController.cs" t="Include" />
+                <e p="AeroplaneControlSurfaceAnimator.cs" t="Include" />
+                <e p="AeroplanePropellerAnimator.cs" t="Include" />
+                <e p="AeroplaneUserControl2Axis.cs" t="Include" />
+                <e p="AeroplaneUserControl4Axis.cs" t="Include" />
+                <e p="JetParticleEffect.cs" t="Include" />
+                <e p="LandingGear.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Car" t="Include">
+              <e p="CarGuidelines.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="BrakeLight.cs" t="Include" />
+                <e p="CarAIControl.cs" t="Include" />
+                <e p="CarAudio.cs" t="Include" />
+                <e p="CarController.cs" t="Include" />
+                <e p="CarSelfRighting.cs" t="Include" />
+                <e p="CarUserControl.cs" t="Include" />
+                <e p="Mudguard.cs" t="Include" />
+                <e p="SkidTrail.cs" t="Include" />
+                <e p="Suspension.cs" t="Include" />
+                <e p="WheelEffects.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="DiffuseReflectiveShader.shader" t="Include" />
+                <e p="ReflectiveDiffuseSpec.shader" t="Include" />
+                <e p="ReflectiveDiffuseSpecTransp.shader" t="Include" />
+              </e>
+            </e>
           </e>
         </e>
       </e>

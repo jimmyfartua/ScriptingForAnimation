@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Name: AutoCar
   m_EditorClassIdentifier: 
   jumpSpeed: {fileID: 11400000, guid: 2b91e7c5e19773e4ba4afcb1f54b8c75, type: 2}
-  gravity: {fileID: 11400000, guid: 14436539e2f163f4c9250d44e496c292, type: 2}
+  gravity: {fileID: 11400000, guid: 2fb096239d676b842828ca19cb1025d9, type: 2}
   MoveX: {fileID: 11400000, guid: 2b91e7c5e19773e4ba4afcb1f54b8c75, type: 2}
   MoveY: {fileID: 11400000, guid: 2b91e7c5e19773e4ba4afcb1f54b8c75, type: 2}
-  MoveZ: {fileID: 11400000, guid: 7c2c401eff60cc843b5d31f3abf3cbf0, type: 2}
+  MoveZ: {fileID: 11400000, guid: 2fb096239d676b842828ca19cb1025d9, type: 2}
   RotX: {fileID: 11400000, guid: 2b91e7c5e19773e4ba4afcb1f54b8c75, type: 2}
-  RotY: {fileID: 11400000, guid: 00c223c6f5d4fce409a7916d4c78339a, type: 2}
+  RotY: {fileID: 11400000, guid: ce54b2ebcdc40284bbb95040d759afa8, type: 2}
   RotZ: {fileID: 11400000, guid: 2b91e7c5e19773e4ba4afcb1f54b8c75, type: 2}
